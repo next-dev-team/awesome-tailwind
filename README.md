@@ -1,6 +1,7 @@
 # awesome-tailwind
 - eldoraui: https://github.com/karthikmudunuri/eldoraui
 - https://www.hyperui.dev/
+- https://cuicui.day/
 - https://tailus.io/blocks
 - https://tailwind-elements.com/docs/standard/designblocks/landing-page/
 - https://tailwind-cards.netlify.app/
