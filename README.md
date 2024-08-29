@@ -1,4 +1,5 @@
 # awesome-tailwind
+- https://www.tailbits.com/components/free
 - eldoraui: https://github.com/karthikmudunuri/eldoraui
 - https://www.hyperui.dev/
 - https://cuicui.day/
