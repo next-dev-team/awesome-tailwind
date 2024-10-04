@@ -3,6 +3,12 @@
 ## SHACN UI
  - https://github.com/ekmas/neobrutalism-components
  - https://github.com/jhonyrdesouza/awesome-shadcn-ui?tab=readme-ov-file
+ - https://github.com/birobirobiro/awesome-shadcn-ui
+ - https://github.com/sadmann7/file-uploader
+ - https://github.com/sadmann7/shadcn-table
+ - https://github.com/salimi-my/shadcn-ui-sidebar
+ - https://github.com/sadmann7/inputs
+ - https://github.com/salimi-my/shadcn-ui-sidebar
 
 ## Tailwind
 - https://www.tailbits.com/components/free
