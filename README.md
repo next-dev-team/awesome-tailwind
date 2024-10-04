@@ -1,4 +1,10 @@
-# awesome-tailwind
+# Awesome-tailwind
+
+## SHACN UI
+ - https://github.com/ekmas/neobrutalism-components
+ - https://github.com/jhonyrdesouza/awesome-shadcn-ui?tab=readme-ov-file
+
+## Tailwind
 - https://www.tailbits.com/components/free
 - eldoraui: https://github.com/karthikmudunuri/eldoraui
 - https://www.hyperui.dev/
