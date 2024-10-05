@@ -1,6 +1,7 @@
 # Awesome-tailwind
 
 ## SHACN UI
+ - https://shadcn-form-build.vercel.app/playground
  - https://github.com/ekmas/neobrutalism-components
  - https://github.com/jhonyrdesouza/awesome-shadcn-ui?tab=readme-ov-file
  - https://github.com/birobirobiro/awesome-shadcn-ui
