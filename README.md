@@ -42,3 +42,6 @@
 - https://tailblocks.cc/
 - https://freefrontend.com/tailwind-code-examples/
 - https://templates.digizu.co.uk/
+
+## Lading Page
+- https://www.landinuxt.com/
