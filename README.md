@@ -43,5 +43,8 @@
 - https://freefrontend.com/tailwind-code-examples/
 - https://templates.digizu.co.uk/
 
+## Collection
+https://tailgrids.com/blog/tailwind-resources?ref=dailydev
+
 ## Lading Page
 - https://www.landinuxt.com/
