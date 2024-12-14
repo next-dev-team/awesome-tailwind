@@ -1,5 +1,8 @@
 # Awesome-tailwind
 
+## Awesome UI
+- https://uiverse.io/elements
+
 ## SHACN UI
  - https://shadcn-form-build.vercel.app/playground
  - https://github.com/ekmas/neobrutalism-components
