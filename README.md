@@ -2,6 +2,7 @@
 
 ## Awesome UI
 - https://uiverse.io/elements
+- https://21st.dev/
 
 ## SHACN UI
  - https://shadcn-form-build.vercel.app/playground
