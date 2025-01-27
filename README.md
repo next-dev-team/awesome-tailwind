@@ -3,8 +3,10 @@
 ## Awesome UI
 - https://uiverse.io/elements
 - https://21st.dev/
+- https://tailgrids.com/blog/tailwind-resources?ref=dailydev
 
 ## SHACN UI
+ - https://spectrumui.arihantcodes.in/docs/button
  - https://shadcn-form-build.vercel.app/playground
  - https://github.com/ekmas/neobrutalism-components
  - https://github.com/jhonyrdesouza/awesome-shadcn-ui?tab=readme-ov-file
@@ -46,9 +48,6 @@
 - https://tailblocks.cc/
 - https://freefrontend.com/tailwind-code-examples/
 - https://templates.digizu.co.uk/
-
-## Collection
-https://tailgrids.com/blog/tailwind-resources?ref=dailydev
 
 ## Lading Page
 - https://www.landinuxt.com/
