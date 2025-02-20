@@ -4,6 +4,7 @@
 - https://uiverse.io/elements
 - https://21st.dev/
 - https://tailgrids.com/blog/tailwind-resources?ref=dailydev
+- https://cheapui.com/design
 
 ## SHACN UI
  - https://spectrumui.arihantcodes.in/docs/button
